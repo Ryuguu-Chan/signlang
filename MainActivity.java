@@ -11,6 +11,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+// code que pour la version gratuite
+
 public class MainActivity extends AppCompatActivity {
 
     private Boolean AlertDone = false;
