@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tool for sign language</string>
+    <string name="dictionaire_entree">Dictionary</string>
+    <string name="alphabet_A">A</string>
+    <string name="alphabet_B">B</string>
+    <string name="alphabet_C">C</string>
+    <string name="alphabet_D">D</string>
+    <string name="alphabet_E">E</string>
+    <string name="alphabet_F">F</string>
+    <string name="alphabet_G">G</string>
+    <string name="alphabet_H">H</string>
+    <string name="alphabet_I">I</string>
+    <string name="alphabet_J">J</string>
+    <string name="alphabet_K">K</string>
+    <string name="alphabet_L">L</string>
+    <string name="alphabet_M">M</string>
+    <string name="alphabet_N">N</string>
+    <string name="alphabet_O">O</string>
+    <string name="alphabet_P">P</string>
+    <string name="alphabet_Q">Q</string>
+    <string name="alphabet_R">R</string>
+    <string name="alphabet_S">S</string>
+    <string name="alphabet_T">T</string>
+    <string name="alphabet_U">U</string>
+    <string name="alphabet_V">V</string>
+    <string name="alphabet_W">W</string>
+    <string name="alphabet_X">X</string>
+    <string name="alphabet_Y">Y</string>
+    <string name="alphabet_Z">Z</string>
+
+    <string name="Tuto">Tutorial</string>
+    <string name="genetrad">text -> sign language</string>
+    <string name="tradgene">sign language -> text</string>
+    <string name="Contact">Contact</string>
+</resources>
