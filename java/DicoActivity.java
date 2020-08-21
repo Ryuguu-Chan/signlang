@@ -21,7 +21,7 @@ public class DicoActivity extends AppCompatActivity {
                 // A
                 // new Signe("À cause de", )
                     // TODO
-                    // Filmer les signes afin de les convertir en fichier .gif
+                    // Faire des illustrations afin d'en faire d'eux d'animation *.gif
             }
     };
 
